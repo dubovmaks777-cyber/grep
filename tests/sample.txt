@@ -1,0 +1,5 @@
+Hello World
+hello grep
+foo bar
+FooBar baz
+pattern line
